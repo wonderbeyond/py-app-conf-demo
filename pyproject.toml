@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "py-app-conf-demo"
+version = "0.1.0"
+description = "A demo Python application about working with configuration files."
+authors = ["Wonder <wonderbeyond@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "py_app_conf_demo"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pydantic = "^2.0.3"
+pyyaml = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
