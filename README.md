@@ -1,6 +1,6 @@
 # Declare and load configuration the robust way in Python
 
-This is an demo application to show a robust way to declare and load configuration in Python.
+**THIS IS NOT A LIBRARY, BUT A DEMO APP YOU CAN COPY AND MODIFY TO FIT YOUR NEEDS.**
 
 Highlights:
 
