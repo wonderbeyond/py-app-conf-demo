@@ -39,7 +39,7 @@ caches:
     cache_dir: /tmp/myapp-cache
 ```
 
-## Step 3 (Optional) - Insect the loaded `settings` object
+## Step 3 (Optional) - Inspect the loaded `settings` object
 
 ```python
 from myapp.conf import settings
